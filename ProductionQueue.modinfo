@@ -6,6 +6,7 @@
 		<Teaser>Add production queues to cities.</Teaser>
 		<Authors>Lozenged</Authors>
 		<CompatibleVersions>2.0</CompatibleVersions>
+		<AffectsSavedGames>0</AffectsSavedGames>
 	</Properties>
     <Components>
         <ImportFiles id="PRODUCTION_QUEUE_IMPORT_FILES">
